@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         button2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Log.i(TAG, "Button 1 clickListener checking in");
+                Log.i(TAG, "Button 2 clickListener checking in");
             }
         });
 
